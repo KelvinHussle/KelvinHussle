@@ -8,11 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Laravel project focusing on event updates and notifications.
 - 🌱 I’m currently learning Flutter for front-end development and exploring advanced Laravel features.
-- 👯 I’m looking to collaborate on web and mobile app development projects.
-- 🤔 I’m looking for help with improving UI/UX design and optimizing performance in Laravel applications.
 - 💬 Ask me about Laravel, PHP, JavaScript, or anything related to web development.
-- 📫 How to reach me: [your email] or [your LinkedIn profile]
-- 😄 Pronouns: [your pronouns]
+- 📫 How to reach me: kelvinkalinga99@gmail.com
 - ⚡ Fun fact: I’m passionate about integrating new technologies into traditional systems for better efficiency.
 
 ### Technologies & Tools
